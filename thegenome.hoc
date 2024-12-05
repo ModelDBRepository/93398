@@ -19,6 +19,7 @@ proc init() {
 	genel = 14
 	setvalues()
 	dice = new Random($1)
+	dice.Random123()
 	makegene(4)
 }
 

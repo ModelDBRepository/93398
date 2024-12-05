@@ -4,6 +4,7 @@ objref parent[2], xdice
 parent[0] = new Vector()
 parent[1] = new Vector()
 xdice = new Random()
+xdice.Random123()
 
 proc xover() {local xlength, xpoint
 		

@@ -49,6 +49,7 @@ rank 		= new Vector(cellnr)
 score 		= new Vector(cellnr)
 scoresorted 	= new Vector(cellnr)
 selector 	= new Random()			// behold! I shall decide the fate of your genome!
+selector.Random123()
 
 // obsolete load_file("stdgui.hoc")
 load_file("nrngui.hoc")

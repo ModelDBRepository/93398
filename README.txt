@@ -35,3 +35,7 @@ executed, and
 	 LOAD_WINNER.hoc in lines 31, 32 and 55, 56.
 
 6/8/2007 version update: a short run test was added to auto-launch options
+
+Changelog
+---------
+2024-11: Updated hoc files to use Random123
