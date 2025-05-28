@@ -20,8 +20,8 @@ This model code was contributed to ModelDB by Klaus Stiefel.
 
    `LOAD_WINNER.hoc` in lines 31, 32 and 55, 56.
 
-6/8/2007 version update: a short run test was added to auto-launch options
+## Changelog
 
----
+6/8/2007 - a short run test was added to auto-launch options
 
-2025-05-27 – Standardized to Markdown.
+5/27/2025 – Standardized to Markdown.
